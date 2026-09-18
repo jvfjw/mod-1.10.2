@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "escavadorinsano:block/autoclicker" },
+    "facing=south": { "model": "escavadorinsano:block/autoclicker", "y": 180 },
+    "facing=west":  { "model": "escavadorinsano:block/autoclicker", "y": 270 },
+    "facing=east":  { "model": "escavadorinsano:block/autoclicker", "y": 90 }
+  }
+}

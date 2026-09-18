@@ -1,0 +1,16 @@
+[
+{
+  "modid": "escavadorinsano",
+  "name": "Athyrson cancer",
+  "description": "Mod de escavação configurável.",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Joaozinho"],
+  "credits": "Pro otário do athyrson",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
